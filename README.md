@@ -1,16 +1,28 @@
-### Hi there 👋
+# About Me
 
-<!--
-**kapustamangusta/kapustamangusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Artem Sochinskiy. I'm a student who enjoys programming, especially web development. My goal is to become an expert in this field, creating creative and functional websites, as well as developing my skills as a programmer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my skills:
+
+- HTML/CSS
+- JavaScript
+- ReactJS
+- NodeJS
+- Git/GitHub
+- Figma
+
+## Education
+
+Currently, I'm studying at BSTU (Bryansk State Texhincal University). I'm learning various programming languages and frameworks to improve my skills in web development.
+
+## Work Experience
+
+I don't have any work experience in web development yet, but I'm actively working on my own projects to build my portfolio.
+
+## Get in Touch
+
+If you have any questions or ideas for collaborative projects, feel free to reach out to me:
+
+- Email: sochinskiyartem@gmail.com
