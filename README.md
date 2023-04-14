@@ -8,10 +8,11 @@ Here are some of my skills:
 
 - HTML/CSS
 - JavaScript
-- ReactJS
-- NodeJS
 - Git/GitHub
 - Figma
+- Gulp
+- Bootstrap
+- PHP
 
 ## Education
 
