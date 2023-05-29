@@ -13,6 +13,8 @@ Here are some of my skills:
 - Gulp
 - Bootstrap
 - PHP
+- jQuery
+- ASP.NET Core
 
 ## Education
 
